@@ -1,6 +1,9 @@
 # ExpenseUI
 Just practicing some UI skills with this Expense Tracker app
-This app has a main focus on GeometryReader as well as animation with matchedGeometryEffect
+This app has a main focus on:
+- GeometryReader
+- animation with matchedGeometryEffect
+- ScrollView and basic Stacks
 
 
 
